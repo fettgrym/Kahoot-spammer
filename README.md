@@ -1,5 +1,5 @@
 # Kahoot-spammer
-Headless browser that spamms login to a kahoot room.
+Headless browser that spamms logins to a kahoot room.
 
 # Installation
 ```
